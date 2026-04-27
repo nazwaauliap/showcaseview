@@ -75,3 +75,19 @@ To contribute documentation updates specifically, please make changes to the doc
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://simform-flutter-packages.web.app/showCaseView/license) file for details.
+
+
+## Tugas 3 - Eksplorasi Open Source
+
+Saya melakukan fork dari repository ShowcaseView untuk mempelajari struktur project Flutter open-source.
+
+### Aktivitas:
+- Fork repository dari GitHub
+- Clone ke lokal
+- Menjalankan project example
+- Menganalisis struktur folder
+
+### Hasil Analisis:
+- Project menggunakan arsitektur plugin + example app
+- Folder example digunakan sebagai aplikasi demo
+- Folder lib berisi core library ShowcaseView
